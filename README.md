@@ -1,1 +1,1 @@
-# Chess-Game-Using-Swing-and-Awt
+# Chess-Game
